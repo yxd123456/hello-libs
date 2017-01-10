@@ -1,0 +1,62 @@
+
+{
+	"buildFiles" : [ "C:/Users/asus/Desktop/hello-libs/app/src/main/cpp/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\asus\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\asus\\Desktop\\hello-libs\\app\\.externalNativeBuild\\cmake\\debug\\armeabi --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"hello-libs-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "hello-libs",
+			"buildCommand" : "C:\\Users\\asus\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\asus\\Desktop\\hello-libs\\app\\.externalNativeBuild\\cmake\\debug\\armeabi --target hello-libs",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv5te-none-linux-androideabi -gcc-toolchain C:/Users/asus/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/asus/AppData/Local/Android/sdk/ndk-bundle/platforms/android-13/arch-arm  -Dhello_libs_EXPORTS -IC:\\Users\\asus\\Desktop\\hello-libs\\app\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\gmath\\include -IC:\\Users\\asus\\Desktop\\hello-libs\\app\\src\\main\\cpp\\..\\..\\..\\..\\distribution\\gperf\\include -isystem C:\\Users\\asus\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\asus\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem C:\\Users\\asus\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -std=gnu++11 -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/asus/Desktop/hello-libs/app/src/main/cpp/hello-libs.cpp",
+					"workingDirectory" : "C:/Users/asus/Desktop/hello-libs/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "C:/Users/asus/Desktop/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi/libhello-libs.so",
+			"toolchain" : "4206514373"
+		},
+		"lib_face-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "lib_face",
+			"buildType" : "debug",
+			"output" : "C:/Users/asus/desktop/hello-libs/distribution/gmath/lib/arm64-v8a/libface.so",
+			"toolchain" : "4206514373"
+		},
+		"lib_gmath-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "lib_gmath",
+			"buildType" : "debug",
+			"output" : "C:/Users/asus/Desktop/hello-libs/app/src/main/cpp/../../../../distribution/gmath/lib/armeabi/libgmath.a",
+			"toolchain" : "4206514373"
+		},
+		"lib_gperf-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "lib_gperf",
+			"buildType" : "debug",
+			"output" : "C:/Users/asus/Desktop/hello-libs/app/src/main/cpp/../../../../distribution/gperf/lib/armeabi/libgperf.so",
+			"toolchain" : "4206514373"
+		}
+	},
+	"toolchains" : 
+	{
+		"4206514373" : 
+		{
+			"cCompilerExecutable" : "C:/Users/asus/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/asus/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,4 @@
+%YAML:1.0
+modelPath: "../data"
+isCPUMode: 1
+faceThresh: 0.29

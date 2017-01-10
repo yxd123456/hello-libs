@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_a794bd85cb88ec47a2b2b77212d6abff204548ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_2a18aa2dd49430fd561eb942c88f437db1c7b781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha7_92b7174a21e1313ae9a30def7eb1cb63bb6c49de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_efb2366a68b16498de1f25cd753e708723f1a5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ac81b3002c6a7141d9a899a66b56baad9729a038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_f12fe9c24b34f061f81729d25dba6622ca0f358a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_dd94f111a9e90aee583993befff950253cb305d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\asus\Desktop\hello-libs\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0f011b445cbfc2c9660d3fc44f3bf6193f5ae30f.jar" />
+    </item>
+
+</items>

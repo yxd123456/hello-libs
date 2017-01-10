@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\hello-libs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\a1.jpg",
+        "source": "C:\\Users\\asus\\Desktop\\hello-libs\\app\\src\\main\\res\\mipmap-hdpi\\a1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\hello-libs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\b1.jpg",
+        "source": "C:\\Users\\asus\\Desktop\\hello-libs\\app\\src\\main\\res\\mipmap-hdpi\\b1.jpg"
+    }
+]

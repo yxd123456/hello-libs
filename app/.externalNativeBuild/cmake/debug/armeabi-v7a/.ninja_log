@@ -1,0 +1,5 @@
+# ninja log v5
+1	283	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	7e9f860c2dd8aa60
+284	403	0	C:/Users/asus/Desktop/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	3e3a89d8b21eef08
+3	261	0	CMakeFiles/hello-libs.dir/hello-libs.cpp.o	7e9f860c2dd8aa60
+261	376	0	C:/Users/asus/Desktop/hello-libs/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-libs.so	3e3a89d8b21eef08
